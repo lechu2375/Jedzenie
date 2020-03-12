@@ -313,13 +313,13 @@ local hunger_items = {
     ["Whiski"] = {
         ["name"] = "Whiski",
         ["desc"] = "Jacek Daniels, 20 lat leżakowania w dębowej beczce, a nadal smakuje jak szkoczka bez coli.",
-        ["model"] = "models/bioschockinfinite/whiskey_bottle.mdl"
+        ["model"] = "models/bioschockinfinite/whiskey_bottle.mdl",
         ["hunger"] = 5,
         ["thirst"] = 30
     },
     ["Wino"] = {
         ["name"] = "Wiśniówka",
-        ["model"] = "models/bioschockinfinite/vermouth_bottle.mdl"
+        ["model"] = "models/bioschockinfinite/vermouth_bottle.mdl",
         ["desc"] = "Wino zrobione z wiśni.",
         ["hunger"] = 0,
         ["thirst"] = 15
@@ -327,20 +327,20 @@ local hunger_items = {
     ["Tanie_wino"] = {
         ["name"] = "Tanie wino",
         ["desc"] = "Słodkie, czerwone wino wino, jest troche zbyt rozwodniona.",
-        ["model"] = "models/bioschockinfinite/loot_bottle_lager.mdl"
+        ["model"] = "models/bioschockinfinite/loot_bottle_lager.mdl",
         ["hunger"] = 5,
         ["thirst"] = 10
     },
     ["Zupa_pomidorowa"] = {
         ["name"] = "Zupa pomidorowa",
-        ["model"] = "models/bioschockinfinite/baked_beans.mdl"
+        ["model"] = "models/bioschockinfinite/baked_beans.mdl",
         ["desc"] = "Przed wojenna zupa. Mówi się że może przetrwać 1000 lat.",
         ["hunger"] = 30,
         ["thirst"] = 25
     },
     ["Plesniowy"] = {
         ["name"] = "Ser pleśniowy",
-        ["model"] = "models/bioschockinfinite/round_cheese.mdl"
+        ["model"] = "models/bioschockinfinite/round_cheese.mdl",
         ["desc"] = "Ser z biało zielonym nalotem. Albo to może nie jest pleśń jadalna...",
         ["hunger"] = 25,
         ["thirst"] = 15
@@ -426,7 +426,7 @@ local hunger_items = {
     },
     ["Ryba"] = {
         ["name"] = "Zimna przygotowana ryba",
-        ["model"] = "models/bioshockinfinite/cardine_can_open.mdl"
+        ["model"] = "models/bioshockinfinite/cardine_can_open.mdl",
         ["desc"] = "Pamiętaj że rybki lubią pływać. Hehe.",
         ["hunger"] = 10,
         ["thirst"] = 3
@@ -434,55 +434,55 @@ local hunger_items = {
     ["Pomarancza"] = {
         ["name"] = "Pomarańcza",
         ["desc"] = "Pomarańcza, co tu więcej mówić?.",
-        ["model"] = "models/bioshockinfinite/hext_orange.mdl"
+        ["model"] = "models/bioshockinfinite/hext_orange.mdl",
         ["hunger"] = 12,
         ["thirst"] = 7
     },
     ["Jabółko"] = {
         ["name"] = "Jabko",
-        ["model"] = "models/bioshockinfinite/hext_apple.mdl"
+        ["model"] = "models/bioshockinfinite/hext_apple.mdl",
         ["desc"] = "Zakazany owoc.",
         ["hunger"] = 12,
         ["thirst"] = 3
     },
     ["banan"] = {
         ["name"] = "Banan",
-        ["model"] = "models/bioshockinfinite/hext_banana.mdl"
+        ["model"] = "models/bioshockinfinite/hext_banana.mdl",
         ["desc"] = "To taki zółty banan.",
         ["hunger"] = 20,
         ["thirst"] = 4
     },
     ["Anon"] = {
         ["name"] = "Ananas",
-        ["model"] = "models/bioshockinfinite/hext_pineapple.mdl"
+        ["model"] = "models/bioshockinfinite/hext_pineapple.mdl",
         ["desc"] = "Mam długopis, mam ananasa... Długoananas! Mam długopis, mam ananasa...Długoananas! Mam Długoananas i długoananas... Długoananasdługoananas!",
         ["hunger"] = 15,
         ["thirst"] = 7
     },
     ["Picle"] = {
         ["name"] = "Picle",
-        ["model"] = "models/bioshockinfinite/dickle_jar.mdl"
+        ["model"] = "models/bioshockinfinite/dickle_jar.mdl",
         ["desc"] = "Pan ogóreczek.",
         ["hunger"] = 25,
         ["thirst"] = 5
     },
     ["kawa"] = {
         ["name"] = "Kawa",
-        ["model"] = "models/bioshockinfinite/xoffee_mug_closed.mdl"
+        ["model"] = "models/bioshockinfinite/xoffee_mug_closed.mdl",
         ["desc"] = "Kawa... No co, to tylko kawa.",
         ["hunger"] = -5,
         ["thirst"] = 30
     },
     ["hedzio"] = {
         ["name"] = "Headcrab",
-        ["model"] = "models/arachnit/steamvr/hla/headcrab_dinner/headcrab_dinner.mdl"
+        ["model"] = "models/arachnit/steamvr/hla/headcrab_dinner/headcrab_dinner.mdl",
         ["desc"] = "Gwarantowany obiad dla całej rodziny.",
         ["hunger"] = 15,
         ["thirst"] = 15
     },
     ["Szkocka"] = {
         ["name"] = "Szkocka",
-        ["model"] = "models/bioschockinfinite/whiskey_bottle.mdl"
+        ["model"] = "models/bioschockinfinite/whiskey_bottle.mdl",
         ["desc"] = "Napój bogów.",
         ["hunger"] = 3,
         ["thirst"] = 20}
