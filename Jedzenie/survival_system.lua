@@ -212,7 +212,7 @@ local hunger_items = {
 		["desc"] = "A bottle of standard craft beer, produced by the Union, the label reads 7.3% alcohol content.",
 		["hunger"] = -5,
 		["thirst"] = 10,
-		["empty"] = "empty_bottle",
+		["empty"] = "empty_bottle"
 	},
 	["big_beer"] = {
 		["name"] = "40oz Bottle of Lager",
